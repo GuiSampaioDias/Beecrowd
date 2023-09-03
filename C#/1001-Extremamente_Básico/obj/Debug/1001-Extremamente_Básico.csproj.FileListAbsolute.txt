@@ -1,0 +1,7 @@
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1001-Extremamente_Básico\bin\Debug\1001-Extremamente_Básico.exe.config
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1001-Extremamente_Básico\bin\Debug\1001-Extremamente_Básico.exe
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1001-Extremamente_Básico\bin\Debug\1001-Extremamente_Básico.pdb
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1001-Extremamente_Básico\obj\Debug\1001-Extremamente_Básico.csproj.AssemblyReference.cache
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1001-Extremamente_Básico\obj\Debug\1001-Extremamente_Básico.csproj.CoreCompileInputs.cache
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1001-Extremamente_Básico\obj\Debug\1001-Extremamente_Básico.exe
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1001-Extremamente_Básico\obj\Debug\1001-Extremamente_Básico.pdb

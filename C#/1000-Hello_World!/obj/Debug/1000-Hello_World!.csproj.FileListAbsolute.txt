@@ -1,0 +1,7 @@
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1000-Hello_World!\bin\Debug\1000-Hello_World!.exe.config
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1000-Hello_World!\bin\Debug\1000-Hello_World!.exe
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1000-Hello_World!\bin\Debug\1000-Hello_World!.pdb
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1000-Hello_World!\obj\Debug\1000-Hello_World!.csproj.AssemblyReference.cache
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1000-Hello_World!\obj\Debug\1000-Hello_World!.csproj.CoreCompileInputs.cache
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1000-Hello_World!\obj\Debug\1000-Hello_World!.exe
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1000-Hello_World!\obj\Debug\1000-Hello_World!.pdb

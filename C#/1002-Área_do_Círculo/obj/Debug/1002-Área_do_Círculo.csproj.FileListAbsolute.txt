@@ -1,0 +1,7 @@
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1002-Área_do_Círculo\bin\Debug\1002-Área_do_Círculo.exe.config
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1002-Área_do_Círculo\bin\Debug\1002-Área_do_Círculo.exe
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1002-Área_do_Círculo\bin\Debug\1002-Área_do_Círculo.pdb
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1002-Área_do_Círculo\obj\Debug\1002-Área_do_Círculo.csproj.AssemblyReference.cache
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1002-Área_do_Círculo\obj\Debug\1002-Área_do_Círculo.csproj.CoreCompileInputs.cache
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1002-Área_do_Círculo\obj\Debug\1002-Área_do_Círculo.exe
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1002-Área_do_Círculo\obj\Debug\1002-Área_do_Círculo.pdb
