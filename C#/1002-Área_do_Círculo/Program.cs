@@ -1,6 +1,6 @@
 ﻿/*
  autor: Guilherme Sampaio Dias
- exercício: 1001 Extremamente Básico
+ exercício: 1002 Área do Círculo
  plataforma: Beecrowd
  
  */

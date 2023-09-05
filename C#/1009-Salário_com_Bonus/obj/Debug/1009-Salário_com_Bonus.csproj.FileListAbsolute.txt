@@ -1,0 +1,7 @@
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1009-Salário_com_Bonus\bin\Debug\1009-Salário_com_Bonus.exe.config
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1009-Salário_com_Bonus\bin\Debug\1009-Salário_com_Bonus.exe
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1009-Salário_com_Bonus\bin\Debug\1009-Salário_com_Bonus.pdb
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1009-Salário_com_Bonus\obj\Debug\1009-Salário_com_Bonus.csproj.AssemblyReference.cache
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1009-Salário_com_Bonus\obj\Debug\1009-Salário_com_Bonus.csproj.CoreCompileInputs.cache
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1009-Salário_com_Bonus\obj\Debug\1009-Salário_com_Bonus.exe
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1009-Salário_com_Bonus\obj\Debug\1009-Salário_com_Bonus.pdb
