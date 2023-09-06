@@ -1,0 +1,7 @@
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1018-Cedulas\bin\Debug\1018-Cedulas.exe.config
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1018-Cedulas\bin\Debug\1018-Cedulas.exe
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1018-Cedulas\bin\Debug\1018-Cedulas.pdb
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1018-Cedulas\obj\Debug\1018-Cedulas.csproj.AssemblyReference.cache
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1018-Cedulas\obj\Debug\1018-Cedulas.csproj.CoreCompileInputs.cache
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1018-Cedulas\obj\Debug\1018-Cedulas.exe
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1018-Cedulas\obj\Debug\1018-Cedulas.pdb

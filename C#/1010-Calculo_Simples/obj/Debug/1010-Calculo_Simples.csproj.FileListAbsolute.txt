@@ -1,0 +1,7 @@
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1010-Calculo_Simples\bin\Debug\1010-Calculo_Simples.exe.config
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1010-Calculo_Simples\bin\Debug\1010-Calculo_Simples.exe
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1010-Calculo_Simples\bin\Debug\1010-Calculo_Simples.pdb
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1010-Calculo_Simples\obj\Debug\1010-Calculo_Simples.csproj.AssemblyReference.cache
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1010-Calculo_Simples\obj\Debug\1010-Calculo_Simples.csproj.CoreCompileInputs.cache
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1010-Calculo_Simples\obj\Debug\1010-Calculo_Simples.exe
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1010-Calculo_Simples\obj\Debug\1010-Calculo_Simples.pdb
