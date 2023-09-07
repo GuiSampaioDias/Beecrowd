@@ -1,0 +1,7 @@
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1021-Notas_e_Moedas\bin\Debug\1021-Notas_e_Moedas.exe.config
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1021-Notas_e_Moedas\bin\Debug\1021-Notas_e_Moedas.exe
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1021-Notas_e_Moedas\bin\Debug\1021-Notas_e_Moedas.pdb
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1021-Notas_e_Moedas\obj\Debug\1021-Notas_e_Moedas.csproj.AssemblyReference.cache
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1021-Notas_e_Moedas\obj\Debug\1021-Notas_e_Moedas.csproj.CoreCompileInputs.cache
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1021-Notas_e_Moedas\obj\Debug\1021-Notas_e_Moedas.exe
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1021-Notas_e_Moedas\obj\Debug\1021-Notas_e_Moedas.pdb

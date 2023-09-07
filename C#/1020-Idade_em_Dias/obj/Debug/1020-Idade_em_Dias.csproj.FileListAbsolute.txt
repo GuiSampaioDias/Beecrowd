@@ -1,0 +1,7 @@
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1020-Idade_em_Dias\obj\Debug\1020-Idade_em_Dias.csproj.AssemblyReference.cache
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1020-Idade_em_Dias\obj\Debug\1020-Idade_em_Dias.csproj.CoreCompileInputs.cache
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1020-Idade_em_Dias\bin\Debug\1020-Idade_em_Dias.exe.config
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1020-Idade_em_Dias\bin\Debug\1020-Idade_em_Dias.exe
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1020-Idade_em_Dias\bin\Debug\1020-Idade_em_Dias.pdb
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1020-Idade_em_Dias\obj\Debug\1020-Idade_em_Dias.exe
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1020-Idade_em_Dias\obj\Debug\1020-Idade_em_Dias.pdb
