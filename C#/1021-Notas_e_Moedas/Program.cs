@@ -1,5 +1,5 @@
 ﻿/*
- * CODIGO NÃO FINALIZADO
+ 
 autor: Guilherme Sampaio Dias
 exercício: 1021 - Notas e Moedas
 plataforma: Beecrowd
