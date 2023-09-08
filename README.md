@@ -29,7 +29,7 @@ Este repositório é disponibilizado sob a [Licença MIT](./LICENSE). Você é l
 
 ## Links Relevantes
 
-- [Meu Perfil no Beecrowd]([https://www.beecrowd.com.br/profile/gui_sampaiodias](https://www.beecrowd.com.br/judge/pt/profile/740870))
+- [Meu Perfil no Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/740870)
 - [Beecrowd](https://www.beecrowd.com.br/)
 - [Minha colocação no Rank da Impacta](https://www.beecrowd.com.br/judge/pt/users/university/impacta)
 
