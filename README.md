@@ -2,8 +2,6 @@
 
 # Repositório Beecrowd de GuiSampaioDias
 
-![Beecrowd Badges]([https://img.shields.io/badge/Exerc%C3%ADcios%20Resolvidos-300%2B-brightgreen](https://www.beecrowd.com.br/judge/pt/users/achievements/740870))
-![Submissões]([https://img.shields.io/badge/Submiss%C3%B5es-900%2B-blue](https://www.beecrowd.com.br/judge/pt/users/achievements/740870))
 
 Olá! Meu nome é GuiSampaioDias, e este é o meu repositório Beecrowd. Aqui você encontrará as minhas soluções para os desafios e exercícios que resolvi na plataforma Beecrowd. Sou apaixonado por programação e estou constantemente buscando aprimorar minhas habilidades.
 
@@ -31,8 +29,9 @@ Este repositório é disponibilizado sob a [Licença MIT](./LICENSE). Você é l
 
 ## Links Relevantes
 
-- [Meu Perfil no Beecrowd](https://www.beecrowd.com.br/profile/gui_sampaiodias)
+- [Meu Perfil no Beecrowd]([https://www.beecrowd.com.br/profile/gui_sampaiodias](https://www.beecrowd.com.br/judge/pt/profile/740870))
 - [Beecrowd](https://www.beecrowd.com.br/)
+- [Minha colocação no Rank da Impacta](https://www.beecrowd.com.br/judge/pt/users/university/impacta)
 
 Agradeço por visitar o meu repositório Beecrowd! Espero que você encontre soluções úteis e inspiradoras aqui.
 
