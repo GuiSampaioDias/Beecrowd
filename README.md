@@ -9,8 +9,8 @@ Olá! Meu nome é GuiSampaioDias, e este é o meu repositório Beecrowd. Aqui vo
 
 Este repositório está organizado em subpastas, cada uma correspondente à linguagem de programação em que os exercícios foram resolvidos. Isso facilita a navegação e permite que você encontre as soluções de sua preferência.
 
-- [Python](./python)
-- [C#](./csharp)
+- [Python](https://www.python.org/)
+- [C#](https://visualstudio.microsoft.com/pt-br/downloads/)
 - [SQL Server](./sqlserver)
 
 ## Minhas Conquistas
