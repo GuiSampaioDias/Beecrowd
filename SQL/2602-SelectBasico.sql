@@ -8,6 +8,6 @@ Linguagem: SQLServer
 
 */
 
-select name 
-from customers
+select         name 
+from           customers
 where state = 'RS'
