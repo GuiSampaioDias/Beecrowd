@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{598F165C-DE56-4FAB-8491-40D81C2AB680}</ProjectGuid>
+    <ProjectGuid>{6CC908F3-F643-4277-8E65-91470F21CC95}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_1010_Calculo_Simples</RootNamespace>
-    <AssemblyName>1010-Calculo_Simples</AssemblyName>
+    <RootNamespace>_1038_Lanche</RootNamespace>
+    <AssemblyName>1038-Lanche</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
