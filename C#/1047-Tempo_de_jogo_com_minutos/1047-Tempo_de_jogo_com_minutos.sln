@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1047-Tempo_de_jogo_com_minutos", "1047-Tempo_de_jogo_com_minutos.csproj", "{5675A1BC-E571-4E53-86F8-9C48944A82D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5675A1BC-E571-4E53-86F8-9C48944A82D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5675A1BC-E571-4E53-86F8-9C48944A82D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5675A1BC-E571-4E53-86F8-9C48944A82D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5675A1BC-E571-4E53-86F8-9C48944A82D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D436C5E0-0929-40E1-A534-65B436C899CC}
+	EndGlobalSection
+EndGlobal
