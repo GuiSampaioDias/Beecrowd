@@ -1,0 +1,7 @@
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1155-Sequencia_S\bin\Debug\1155-Sequencia_S.exe.config
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1155-Sequencia_S\bin\Debug\1155-Sequencia_S.exe
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1155-Sequencia_S\bin\Debug\1155-Sequencia_S.pdb
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1155-Sequencia_S\obj\Debug\1155-Sequencia_S.csproj.AssemblyReference.cache
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1155-Sequencia_S\obj\Debug\1155-Sequencia_S.csproj.CoreCompileInputs.cache
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1155-Sequencia_S\obj\Debug\1155-Sequencia_S.exe
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\Beecrowd\C#\1155-Sequencia_S\obj\Debug\1155-Sequencia_S.pdb
